@@ -10,9 +10,10 @@ Author: luis.boluna@keysight.com
 
 
 Known issues/limitations:
-    Expand use of ports 
-     - Check port numbering for errors
-     - Plan not to hard code ports, for other applications
+
+Plan to expand use of ports 
+- Check port numbering for errors
+- Plan not to hard code ports, for other applications
     
 
 Examples:
